@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Yanone+Kaffeesatz:wght@300;400&display=swap');
+/* Importando fontes de letras do google fontes */
+
+/* Declarando variavel no css */
+:root{
+    --purple: #7829f1;
+    --primary-color: #707070;
+    --bg-green: #a8e1d7;
+    --sand: #faf9f5;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    color: var(--purple);
+    font-size: 50px;
+    margin: 0;
+}
+
+h1{
+    font-family: "Varela Round", sans-serif;
+    color: var(--purple);
+    font-size: 18px;
+    margin: 0;
+}
+
+p{
+    font-family: "Varela Round", sans-serif;
+    color: var(--primary-color);
+    margin: 0;
+}
+
+body{
+    background: var(--bg-green);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container{
+    width: 1000px;
+    height: 500px;
+    background: var(--sand);
+    display: flex;
+}
+
+.menu{
+    width: 70px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu svg{
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+    color: var(--primary-color);
+}
+
+.menu .selected{
+    color: var(--purple);
+}
+
+.board-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.board-container .flex-board{
+    width: 600px;
+    height: 370px;
+    background-color: var(--purple);
+    border-radius: 80px;
+    position: absolute;
+    right: 300px;
+}
+
+.flex-board .illustration{
+    width: 200px;
+    position: absolute;
+    top: -50px;
+    left: 50px;
+    opacity: 1;
+}
+
+.flex-board-open{
+    animation: board-right-grow 0.5s ease 0s forwards;
+}
+
+.flex-board-open .illustration{
+    animation: show 0.5s forwards;
+}
+
+.flex-board-close{
+    animation: board-right-shrink 0.5s ease 0s forwards;
+}
+
+.flex-board-close .illustration{
+    animation: hide 0.5s forwards;
+}
+
+.board-container .board{
+    background: white;
+    width: 600px;
+    height: 370px;
+    -webkit-box-shadow: -9px 13px 31px -16px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -9px 13px 31px -16px rgba(0, 0, 0, 0.75);
+    box-shadow: -9px 13px 31px -16px rgba(0, 0, 0, 0.75);
+    position: absolute;
+    right: 30px;
+    border-radius: 80px;
+    display: flex;
+    padding: 0 30px;
+    animation: board-right-grow 1s;
+}
+
+.board-container .board .board-left, .board-right{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+.board-container .board .board-left .inline-content{
+    display: flex;
+    align-items: center;
+}
+
+.inline-content svg{
+    margin: 0 5px;
+}
+
+.info-img{
+    height: 150px;
+    border-radius: 16px;
+    margin-top: 15px;
+}
+
+.header svg{
+    color: var(--purple);
+    width: 40px;
+    height: 40px;
+}
+.subheader svg{
+    color: var(--primary-color);
+}
+
+.board-right p{
+    margin: 5px 0;
+}
+
+.board-right h2{
+    margin: 20px 0;
+}
+
+.board .card{
+    height: 100%;
+    padding: 40px;
+}
+
+@keyframes board-right-grow{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 600px;
+    }
+}
+
+@keyframes board-right-shrink{
+    0%{
+        width: 600px;
+    }
+    100%{
+        width: 0px;
+    }
+}
+
+@keyframes show{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@keyframes hide{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}

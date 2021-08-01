@@ -88,13 +88,15 @@ Link para ver o resultado:
 
 ##
 
-Projetos tirados dos videos da Attekita Dev onde sugere desenvolver sites para praticar mais o JavaScript.
+## Attekita Dev
 
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+![pf](https://user-images.githubusercontent.com/71888055/127756331-1027e684-215e-4f29-ba2e-e735342f6801.jpg)
+
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g) [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/attekitadev/)
 
 Se inscrevam no canal e a sigam no instagram para mais informações e terem ótimas dicas sobre tecnologia e curiosidades sobre ser Freelancer💻🖥️📚
 
-[![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/attekitadev/)
+
 
 [Bateria Virtual](https://athilas-silva.github.io/projetos-praticos/bateria-virtual/index.html)
 

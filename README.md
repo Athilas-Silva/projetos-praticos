@@ -19,7 +19,6 @@ Se inscrevam no canal e a sigam no instagram para mais informações e terem ót
 ## Dashboard Star-Wars
 
 Site com gráfico dinâmico com algumas informações sobre a Saga Star-Wars, usando API's externas, JQuery e alguns ícones.
-##
 
 <h3 align="center">
     Ferramentas utilizadas para desenvolvimento
@@ -41,10 +40,6 @@ Link para visualizar o resultado:
 ## Animações
 
 Site desenvolvido com intuito de praticar animações usando CSS e JavaScript, desenvolvido através de uma série de 5 vídeos da Isadora.
-
-<p align="center">
-⚠️⚠️ ATENÇÃO ⚠️⚠️
-</p>
 
 <h3 align="center">
   Ferramentas utilizadas
@@ -95,8 +90,6 @@ Link para ver o resultado:
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g) [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/attekitadev/)
 
 Se inscrevam no canal e a sigam no instagram para mais informações e terem ótimas dicas sobre tecnologia e curiosidades sobre ser Freelancer💻🖥️📚
-
-
 
 [Bateria Virtual](https://athilas-silva.github.io/projetos-praticos/bateria-virtual/index.html)
 

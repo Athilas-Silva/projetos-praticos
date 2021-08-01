@@ -34,7 +34,7 @@ Site com gráfico dinâmico com algumas informações sobre a Saga Star-Wars, us
 
 Link para visualizar o resultado:
 
-- [Dashboard Star Wars](https://athilas-silva.github.io/papodev/dashboard/index.html)
+- [Dashboard Star Wars](https://athilas-silva.github.io/projetos-praticos/dashboard/index.html)
 
 ##
 
@@ -56,7 +56,7 @@ Site desenvolvido com intuito de praticar animações usando CSS e JavaScript, d
 
 Link para ver o resultado:
 
-- [Animação](https://athilas-silva.github.io/papodev/animacoes/index.html)
+- [Animação](https://athilas-silva.github.io/projetos-praticos/animacoes/index.html)
 
 ##
 
@@ -64,7 +64,7 @@ Link para ver o resultado:
 
 Utilizando apenas HTML e CSS.
 
-- [Netflix](https://athilas-silva.github.io/papodev/Netflix/index.html)
+- [Netflix](https://athilas-silva.github.io/projetos-praticos/Netflix/index.html)
 
 ##
 
@@ -74,7 +74,7 @@ Site com anúncio de um tênis feito com HTML e CSS.
 
 Link para ver o resultado:
 
-- [Desafio](https://athilas-silva.github.io/papodev/desafio/index.html)
+- [Desafio](https://athilas-silva.github.io/projetos-praticos/desafio/index.html)
 
 ##
 
@@ -84,7 +84,7 @@ Site de uma agência de viagens com responsividade para celular. Desenvolvido at
 
 Link para ver o resultado:
 
-- [Viagem](https://athilas-silva.github.io/papodev/viagem/index.html)
+- [Viagem](https://athilas-silva.github.io/projetos-praticos/viagem/index.html)
 
 ##
 
